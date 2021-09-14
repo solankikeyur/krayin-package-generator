@@ -13,7 +13,7 @@ class $CLASS$ extends DataGrid
 
     public function prepareQueryBuilder()
     {
-        //queryBuilder = DB::table('table')->addSelect('id');
+        //$queryBuilder = DB::table('table')->addSelect('id');
 
         //$this->setQueryBuilder($queryBuilder);
     }
